@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":2,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":3,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":4,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":5,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":6,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":7,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":8,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":9,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":10,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":11,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Aarti beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    },
+    {
+        "id":12,
+        "image":"https://plus.unsplash.com/premium_photo-1661768055500-45bf4357bb85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Apsara beauty parlour",
+        "address":"724, Near kumar book depot, Maheshwari devi chauk Banda, Uttar Pradesh 210001",
+        "beautician":"Beautician Name",
+        "timing":"9AM to 5PM",
+        "rate":2
+    }
+]
